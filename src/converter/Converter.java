@@ -7,7 +7,8 @@ public class Converter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // console output to choose unit to convert
+        // update from main branch -----> create conflict .
+      
         System.out.println("Unit Converter");
         System.out.println("1. Meters to Centimeters");
         System.out.println("2. Centimeters to Meters");
@@ -17,7 +18,7 @@ public class Converter {
         System.out.println("6. Fahrenheit to Celsius");
         System.out.println("7. Celsius to Kelvin");
         System.out.println("8. Kelvin to Celsius");
-        System.out.print("Choose an option (1, 2, 3 ,4,5 or 7): ");
+        System.out.print("Choose an option (1, 2, 3, 4, 5, 6, 7 or 8): ");
         int option = scanner.nextInt();
 
         System.out.print("Enter value: ");
