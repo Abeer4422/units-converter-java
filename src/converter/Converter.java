@@ -7,7 +7,10 @@ public class Converter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+<<<<<<< HEAD
         // update from main branch -----> create conflict .
+=======
+>>>>>>> 05c7b1856f3ccd38636dc1565e76f3a938e963d5
         System.out.println("Unit Converter");
         System.out.println("1. Meters to Centimeters");
         System.out.println("2. Centimeters to Meters");
