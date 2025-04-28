@@ -7,6 +7,7 @@ public class Converter {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        // console output to choose unit to convert
         System.out.println("Unit Converter");
         System.out.println("1. Meters to Centimeters");
         System.out.println("2. Centimeters to Meters");
